@@ -24,3 +24,12 @@ a {
 ul {
     list-style: none;
 }
+
+/* Heading Part */
+
+/* Navbar Part of heading */
+
+.heading {
+    min-width: 144rem;
+    height: 22.4rem;
+}
