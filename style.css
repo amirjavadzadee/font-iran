@@ -63,5 +63,27 @@ ul {
 .nav-left a{
     color: #00B0C0;
     margin-right: 1rem;
+}
 
+/* Navbar Line Part */
+.nav-line {
+    max-width: 110.4rem;
+    margin: 0 auto;
+    position: relative;
+}
+
+.main-nav-line {
+    max-width: 110.4rem;
+    height: 0.1rem;
+    background: #E8E8E8;
+}
+
+.blue-nav-line {
+    width: 17.2rem;
+    height: 0.3rem;
+    border-radius: 0.5rem 0.5rem 0rem 0rem;
+    background: #00B0C0;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
