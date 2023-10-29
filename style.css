@@ -34,11 +34,12 @@ ul {
 /* Navbar Part of heading */
 .navbar {
     max-width: 110.4rem;
-    height: 6.9rem;
+    height: 5.7rem;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 1.2rem;
 }
 
 #current-page {
