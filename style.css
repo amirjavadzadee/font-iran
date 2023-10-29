@@ -155,3 +155,32 @@ ul {
     align-items: center;
 }
 /* End Of Heading Box */
+
+/* Start Of Menu Box */
+
+.menu-box {
+    padding: 1.4rem 1.6rem 1.3rem 46.7rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background: var(--F5F5F5, #F5F5F5);
+    margin: 0 auto;
+    max-width: 110.4rem;
+    height: 4.8rem;
+}
+
+.menu-box ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3.2rem;
+}
+
+.menu-box ul li a {
+    color: #8E8E8E;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+/* End Of Menu Box */
